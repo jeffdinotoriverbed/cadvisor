@@ -5,6 +5,7 @@ cAdvisor (Container Advisor) provides container users an understanding of the re
 cAdvisor has native support for [Docker](https://github.com/docker/docker) containers and should support just about any other container type out of the box. We strive for support across the board so feel free to open an issue if that is not the case. cAdvisor's container abstraction is based on [lmctfy](https://github.com/google/lmctfy)'s so containers are inherently nested hierarchically.
 
 ![cAdvisor](logo.png "cAdvisor")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcadvisor.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcadvisor?ref=badge_shield)
 
 #### Quick Start: Running cAdvisor in a Docker Container
 
@@ -63,3 +64,7 @@ cAdvisor aims to improve the resource usage and performance characteristics of r
 ## Community
 
 Contributions, questions, and comments are all welcomed and encouraged! cAdvisor developers hang out on [Slack](https://kubernetes.slack.com) in the #sig-node channel (get an invitation [here](http://slack.kubernetes.io/)). We also have the [kubernetes-users Google Groups mailing list](https://groups.google.com/forum/#!forum/kubernetes-users).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcadvisor.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcadvisor?ref=badge_large)
